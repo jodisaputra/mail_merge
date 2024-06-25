@@ -1,0 +1,1 @@
+ERROR:root:Failed to send email to filipus@uib.edu: replace() argument 2 must be str, not float
